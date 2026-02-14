@@ -70,6 +70,7 @@ Created meaningful features:
 - Pickle
 
 ## Project Structure
+<img width="449" height="366" alt="image" src="https://github.com/user-attachments/assets/363fc1b1-a51a-42d2-9cd4-6e8102002a92" />
 
 
 T20-SCORE-PREDICTOR/
