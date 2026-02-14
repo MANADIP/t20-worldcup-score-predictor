@@ -50,6 +50,8 @@ Created meaningful features:
 - User inputs match details
 - Model predicts final score instantly
 - Displays prediction dynamically
+<img width="721" height="743" alt="image" src="https://github.com/user-attachments/assets/d11b9a13-e0da-424e-96cb-33c28b1b3c8d" />
+
 
 ##  Features Used in Final Model
 - Batting Team
@@ -61,35 +63,10 @@ Created meaningful features:
 - Current Run Rate (CRR)
 - Runs in Last 5 Overs
 
-## Technologies Used
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Streamlit
-- Pickle
 
 ## Project Structure
 <img width="449" height="366" alt="image" src="https://github.com/user-attachments/assets/363fc1b1-a51a-42d2-9cd4-6e8102002a92" />
 
-
-T20-SCORE-PREDICTOR/
-│
-├── data/
-│ ├── Ball_Wise_data.csv
-│ └── t20s_worldcup_cleaned.csv
-│
-├── notebooks/
-│ ├── 01_data_extraction.ipynb
-│ ├── 02_feature_engineering.ipynb
-│ └── 03_model_training.ipynb
-│
-├── app.py
-├── pipe.pkl
-├── requirements.txt
-├── README.md
-
----
 
 ##  How To Run Locally
 
@@ -98,7 +75,7 @@ T20-SCORE-PREDICTOR/
 ### 2️) Install dependencies
 
 ### 3) Run the Streamlit app
-streamlit run app.py
+streamlit run app.py/
 
 ## Learning Outcomes
 
