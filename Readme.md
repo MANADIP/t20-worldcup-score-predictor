@@ -91,7 +91,8 @@ This project helped in understanding:
 
 ## Author
 
-**Manadip Sutradhar**   15/02/2026
+**Manadip Sutradhar**  
+Date  - 15/02/2026
 M.Sc. Chemistry | Interested in Machine Learning & Data Science
 
 
